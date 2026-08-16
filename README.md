@@ -30,21 +30,21 @@ The project uses Machine Learning to train a model using a student placement dat
 
 1. Create a virtual environment.
 
-python -m venv venv
+   python -m venv venv
 
 2. Activate the virtual environment.
 
-Windows
+   Windows
 
-venv\Scripts\activate
+    venv\Scripts\activate
 
 3. Install the required libraries.
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 4. Run the streamlit app.
 
-streamlit run app.py
+    streamlit run app.py
 
 # Sample Prediction
 
