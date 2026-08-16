@@ -6,14 +6,14 @@ This project predicts whether a student is likely to be placed based on their ac
 The project uses Machine Learning to train a model using a student placement dataset and then predicts the placement outcome for a new student.
 
 # Technologies Used
-# -> Python
+1. Python
 
-Streamlit
+2. Streamlit
 
-Pandas
+3. Pandas
 
-Scikit-learn
+4. Scikit-learn
 
-Machine Learning
+5. Machine Learning
 
-CSV Dataset
+6. CSV Dataset
