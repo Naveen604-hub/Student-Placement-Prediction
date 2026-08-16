@@ -8,8 +8,12 @@ The project uses Machine Learning to train a model using a student placement dat
 # Technologies Used
 Python
 
+Streamlit
+
 Pandas
 
 Scikit-learn
+
 Machine Learning
+
 CSV Dataset
