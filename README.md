@@ -33,8 +33,7 @@ The project uses Machine Learning to train a model using a student placement dat
 python -m venv venv
 
 2. Activate the virtual environment.
-# Windows
-
+Windows
 venv\Scripts\activate
 
 3. Install the required libraries.
