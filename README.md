@@ -29,5 +29,33 @@ The project uses Machine Learning to train a model using a student placement dat
 # How to run
 
 1. Create a virtual environment.
+
 python -m venv venv
 
+2. Activate the virtual environment.
+# Windows
+
+venv\Scripts\activate
+
+3. Install the required libraries.
+
+pip install -r requirements.txt
+
+4. Run the streamlit app.
+
+streamlit run app.py
+
+# Sample Prediction
+
+Prediction Results : Student is Placed!
+
+# Learning Outcome
+
+Through this project, I learned the basic workflow of a Machine Learning project, including data handling, model training, saving a trained model, and making predictions on new data.
+
+# Future Improvement in this Project
+
+1. Add a web interface
+2. Improve the dataset
+3. Compare different Machine Learning algorithms
+4. Improve prediction accuracy.
