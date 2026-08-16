@@ -1,1 +1,1 @@
-# Student-Placement-Prediction
+# Student Placement Prediction Model Using Machine Learning
